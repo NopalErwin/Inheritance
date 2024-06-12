@@ -4,7 +4,7 @@ public class Manager extends Karyawan {
      super(nama, sapaan);
  }
 
-    int gajiManager = 2000000;
+    int gajiManager = 20000000;
     int tunjanganTransportasi = 30;
 
     public int getGajiManager() {
